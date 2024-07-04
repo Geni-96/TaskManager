@@ -1,3 +1,6 @@
+
+<img width="1470" alt="Screenshot 2024-07-04 at 12 14 17 PM" src="https://github.com/Geni-96/TaskManager/assets/122692904/8d44f1f7-c4de-4148-ad3f-12d912706c3d">
+
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
